@@ -1,4 +1,4 @@
-# Mattermost Hackathon November 22 - 24, 2019
+# Mattermost Hackathon November 22 - 26, 2019
 
 Mattermost is holding a virtual hackathon November 22 - 26 and everyone is invited to participate! You can work on anything to do with Mattermost for your hackathon project but we strongly encourage building a plugin or an integration.
 
