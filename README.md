@@ -12,7 +12,7 @@ Submit your Hackathon project following these steps:
  - a short, 1-2 paragraph description of your work.
 4. Submit your changes as a pull request.
 
-You can see a [sample submission here](https://github.com/mattermost/mattermost-hackathon-nov2019/blob/master/hackathon-submissions/jasonblais-sample-submission).
+You can see a [sample submission here](https://github.com/mattermost/mattermost-hackathon-nov2019/pull/1).
 
 ## Things to know
 
