@@ -26,4 +26,4 @@ You can see a [sample submission here](https://github.com/mattermost/mattermost-
 
 4 - New to Mattermost? Check out [Developer Docs](https://developers.mattermost.com/) for helpful resources including machine setup and developer workflow for Mattermost repositories.
 
-5 - Questions? Please open a GitHub issue or ask in the public Hackathon channel at https://community.mattermost.com/core/channels/mm-hackathon-nov2019.
+5 - Questions? Please open a GitHub issue in this repository or [ask in the Hackathon channel](https://community.mattermost.com/core/channels/mm-hackathon-nov2019).
