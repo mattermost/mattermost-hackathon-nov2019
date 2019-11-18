@@ -10,7 +10,7 @@ Submit your Hackathon project following these steps:
 3. Include either 
  - a link to a repository containing your project (e.g. an integration or plugin), or
  - a short, 1-2 paragraph description of your work.
-4. Submit your changes as a pull request.
+4. Submit your changes as a pull request. If other members worked with you on the project, please make sure to include that in your pull request description.
 
 You can see a [sample submission here](https://github.com/mattermost/mattermost-hackathon-nov2019/pull/1).
 
