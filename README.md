@@ -18,7 +18,7 @@ You can see a [sample submission here](https://github.com/mattermost/mattermost-
 
 1 - Participants from the community who submit a Hackathon project will receive a Mattermost swag bag!
 
-![image](https://user-images.githubusercontent.com/13119842/68987408-cadcb580-07f7-11ea-83a1-9e43ea3618e9.png)
+![image](https://user-images.githubusercontent.com/13119842/69384966-e4647e00-0c8b-11ea-95c7-eed6960a5208.png)
 
 2 - Don't know what to work on? Check out [top community feature proposals](https://mattermost.uservoice.com/forums/306457-general/filters/top) or [Hackathon ideas spreadsheet](https://docs.google.com/spreadsheets/d/1pNjW34ZMaIut_YCqw-CRshQ3QGppl_0xG7PsdhEGEcg/edit#gid=0) for inspiration.
 
