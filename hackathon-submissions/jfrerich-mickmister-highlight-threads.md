@@ -1,6 +1,9 @@
+# Summary - Highlight threaded posts in the center channel 
+
+`Account Settings > Display > Highlight Thread` to enable / disable
+* Highlight threads by holding the `<alt>` key and hovering over a threaded post in the center channel
+* Posts that are not members of the thread are dimmed
+
 ## Repo Link
-  - https://github.com/mattermost/mattermost-webapp/tree/hackatron-2019-highlight-thread
+- https://github.com/mattermost/mattermost-webapp/tree/hackatron-2019-highlight-thread
 
-## Summary
-
-Add ability to highlight threads in the center channel. When turned on via `Account Settings > Display > Highlight Thread` the user can highlight threads by holding the `<alt>` key and hovering over a post in the center channel. To provide a better UX, the highlight function dims non threaded posts, rather than actually highlighting the currently hovered post.
