@@ -1,0 +1,11 @@
+Using PowerShell to post messages via API.  
+
+## Why I made New-MMMessage
+
+I often have to post the same predefined message in certain channels.  I wanted
+a way to quickly post reused messages that was customizable and didn't require
+any server changes or a bot for slash commands.
+
+Gitlab: https://gitlab.com/darkestofdans/mattermostapipowershell
+
+Sorry I'm four days late, I didn't know this was going on!
