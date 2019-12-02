@@ -1,6 +1,6 @@
-# Re-org of LHS on react native app for ease of use
+# Re-organization of LHS on Mattermost mobile app for ease of use
 
-This is a POC to see the possibility of integrating teambar as part of LHS in mobile apps. It is based off of a previous hackathon [design]( https://preview.uxpin.com/027ce9f722fea7c26a28c973724d1863d22777d4#/pages//simulate/no-panels?mode=i) submission by Mike and Eric.
+This is a POC to see the possibility of integrating teambar as part of LHS in mobile apps. It is based off of a previous hackathon [design](https://preview.uxpin.com/027ce9f722fea7c26a28c973724d1863d22777d4#/pages//simulate/no-panels?mode=i) submission by Mike and Eric.
 Motivation for this is to decrease the number of clicks and the time needed for switching to a team by incorporating them next to channel list in LHS.
 This also provides a way to quickly glance at the notification count and updates on opening LHS decreasing the need to go to team list  
 
