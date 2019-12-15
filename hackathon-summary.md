@@ -6,7 +6,7 @@ Check out [all Hackathon projects on this GitHub repository](https://github.com/
 
 ## Integrations
 
-| Name                                                                                                         | Contributor                                               | Next Steps                       |
+| Name                                                                                                         | Contributor                                               | Next Steps from Mattermost team  |
 | -------------------------------------------------------------------------------------------------------------| ----------------------------------------------------------| ---------------------------------|
 | [Bamboo HR plugin for Mattermost](https://github.com/AGMETEOR/mattermost-plugin-bamboohr)                    | [Allan Guwatudde](https://github.com/AGMETEOR)            | To be determined                 |
 | [Calendar plugin powered by Cronofy for Mattermost](https://github.com/mickmister/mattermost-plugin-cronofy) | [Michael Kochell](https://github.com/mickmister)          | To be determined                 |
@@ -21,7 +21,7 @@ Check out [all Hackathon projects on this GitHub repository](https://github.com/
 
 ## Productivity Tools
 
-| Name                                                                                                         | Contributor                                               | Next Steps                       |
+| Name                                                                                                         | Contributor                                               | Next Steps from Mattermost team  |
 | -------------------------------------------------------------------------------------------------------------| ----------------------------------------------------------| ---------------------------------|
 | [Agenda plugin for Mattermost](https://github.com/marianunez/mattermost-plugin-agenda)                       | [Maria Nunez](https://github.com/marianunez)              | To be determined                 |
 | [Air Quality Index (AQI) plugin for Mattermost](https://github.com/harshilsharma63/mattermost-plugin-aqi)    | [Harshil Sharma](https://github.com/harshilsharma63)      | To be determined                 |
@@ -30,3 +30,12 @@ Check out [all Hackathon projects on this GitHub repository](https://github.com/
 | [Screen recording plugin](https://github.com/streamer45/mattermost-plugin-screen)                            | [Claudio Costa](https://github.com/streamer45)            | To be determined                 |
 | [StopWords script](https://github.com/AninditaBasu/mattermost-hackathon-stopWords)                           | [Anindita Basu](https://github.com/AninditaBasu)          | To be determined                 |
 | [To-Do plugin](https://github.com/jwilander/mattermost-plugin-todo)                                          | [Joram Wilander](https://github.com/jwilander)            | To be determined                 |
+
+## Platform – Web and Desktop Apps
+
+| Name                                                                                                                                                                         | Contributor                                                                                                                                   | Next Steps from Mattermost team                                                                                                                                                         |
+| -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------| ----------------------------------------------------------------------------------------------------------------------------------------------| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Advanced text editor](https://github.com/mattermost/mattermost-hackathon-nov2019/blob/master/hackathon-submissions/deanwhillier-andrew.brown-esethna_post-editor-tools.md)  | [Dean Whillier](https://github.com/deanwhillier), [Andrew Brown](https://github.com/andrewbrown00), [Eric Sethna](https://github.com/esethna) | Featue is already part of Core team priorities, planned for 2020. Epic for continued design and developement: https://mattermost.atlassian.net/browse/MM-21165                          |
+| [Custom statuses](https://github.com/mattermost/mattermost-hackathon-nov2019/blob/master/hackathon-submissions/m-zubairahmed-set-custom-status.md)                           | [Md Zubair Ahmed](https://github.com/M-ZubairAhmed)                                                                                           | Design is blocking, the feature is planned but not yet scheduled for internal development (not earlier than late 2020). Mattermost team to reach out to Zubair when design work begins. |
+
+// 21
