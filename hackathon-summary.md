@@ -21,15 +21,15 @@ Check out [all Hackathon projects on this GitHub repository](https://github.com/
 
 ## Productivity Tools
 
-| Name                                                                                                         | Contributor                                               | Next Steps from Mattermost team  |
-| -------------------------------------------------------------------------------------------------------------| ----------------------------------------------------------| ---------------------------------|
-| [Agenda plugin for Mattermost](https://github.com/marianunez/mattermost-plugin-agenda)                       | [Maria Nunez](https://github.com/marianunez)              | To be determined                 |
-| [Air Quality Index (AQI) plugin for Mattermost](https://github.com/harshilsharma63/mattermost-plugin-aqi)    | [Harshil Sharma](https://github.com/harshilsharma63)      | To be determined                 |
-| [File encryption plugin](https://github.com/HilalNazli/mattermost-file-encryption-plugin)                    | [Hilal Özdemir Pehlivan](https://github.com/HilalNazli)   | To be determined                 |
-| [Live chat powered by Mattermost](https://gitlab.com/itk.fr/matternelle)                                     | [Romain Maneschi](https://github.com/manland)             | To be determined                 |
-| [Screen recording plugin](https://github.com/streamer45/mattermost-plugin-screen)                            | [Claudio Costa](https://github.com/streamer45)            | To be determined                 |
-| [StopWords script](https://github.com/AninditaBasu/mattermost-hackathon-stopWords)                           | [Anindita Basu](https://github.com/AninditaBasu)          | To be determined                 |
-| [To-Do plugin](https://github.com/jwilander/mattermost-plugin-todo)                                          | [Joram Wilander](https://github.com/jwilander)            | To be determined                 |
+| Name                                                                                                         | Contributor                                               | Next Steps from Mattermost team                                                           |
+| -------------------------------------------------------------------------------------------------------------| ----------------------------------------------------------| ------------------------------------------------------------------------------------------|
+| [Agenda plugin for Mattermost](https://github.com/marianunez/mattermost-plugin-agenda)                       | [Maria Nunez](https://github.com/marianunez)              | To be determined                                                                          |
+| [Air Quality Index (AQI) plugin for Mattermost](https://github.com/harshilsharma63/mattermost-plugin-aqi)    | [Harshil Sharma](https://github.com/harshilsharma63)      | To be determined                                                                          |
+| [File encryption plugin](https://github.com/HilalNazli/mattermost-file-encryption-plugin)                    | [Hilal Özdemir Pehlivan](https://github.com/HilalNazli)   | To be determined                                                                          |
+| [Live chat powered by Mattermost](https://gitlab.com/itk.fr/matternelle)                                     | [Romain Maneschi](https://github.com/manland)             | To be determined                                                                          |
+| [Screen recording plugin](https://github.com/streamer45/mattermost-plugin-screen)                            | [Claudio Costa](https://github.com/streamer45)            | To be determined                                                                          |
+| [StopWords script](https://github.com/AninditaBasu/mattermost-hackathon-stopWords)                           | [Anindita Basu](https://github.com/AninditaBasu)          | To be determined                                                                          |
+| [To-Do plugin](https://github.com/jwilander/mattermost-plugin-todo)                                          | [Joram Wilander](https://github.com/jwilander)            | To be determined                                                                          |
 
 ## Platform – Web and Desktop Apps
 
@@ -66,4 +66,12 @@ Check out [all Hackathon projects on this GitHub repository](https://github.com/
 | [Rework of Mattermost plugin API](https://github.com/lieut-data/mattermost-plugin-api)                                                          | [Jesse Hallam](https://github.com/lieut-data), [Ben Schumacher](https://github.com/hanzei), [Shota Gvinepadze](https://github.com/iomodo), [İlker Göktuğ Öztürk](https://github.com/ilgooz) | To be determined.                                                                                                                                                                                                                                                |
 | [Search engine architecture with Bleeve](https://github.com/mattermost/mattermost-server/pull/13228)                                            | [Miguel de la Cruz](https://github.com/mgdelacroix), [Jesús Espino](https://github.com/jespino)                                                                                             | Prioritization being considered. Follow-up Jira tickets: https://mattermost.atlassian.net/browse/MM-20978, https://mattermost.atlassian.net/browse/MM-20979, https://mattermost.atlassian.net/browse/MM-20980, https://mattermost.atlassian.net/browse/MM-20981. |
 
-// 42
+## Fun Apps
+
+| Name                                                                                     | Contributor                                     | Next Steps from Mattermost team                                                           |
+| -----------------------------------------------------------------------------------------| ------------------------------------------------| ------------------------------------------------------------------------------------------|
+| [Creepy cat plugin for Mattermost](https://github.com/reflog/mattermost-plugin-creepy)   | [Eli Yukelzon](https://github.com/reflog)       | To be determined                                                                          |
+| [Rock-paper-scissors trivia plugin](https://github.com/ali-farooq0/rock-paper-scissors)  | [Ali Farooq](https://github.com/ali-farooq0)    | To be determined                                                                          |
+| [Trivia plugin](https://github.com/iomodo/mattermost-trivia-plugin)                      | [Shota Gvinepadze](https://github.com/iomodo)   | To be determined                                                                          |
+| [Word by Word plugin for Mattermost](https://github.com/allenlai18/mm-plugin-wordbyword) | [Allen Lai](https://github.com/allenlai18)      | To be determined                                                                          |
+
